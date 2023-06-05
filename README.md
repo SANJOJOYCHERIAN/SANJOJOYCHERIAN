@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
+--> i am currently learning 
+-logged in 
+--> check system
+git status
